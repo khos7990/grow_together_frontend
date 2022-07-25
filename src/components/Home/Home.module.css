@@ -1,0 +1,11 @@
+.image {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  height: 380px;
+  background-image: url('https://m.media-amazon.com/images/I/51wYWuPCK-L._AC_SL1000_.jpg');
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
